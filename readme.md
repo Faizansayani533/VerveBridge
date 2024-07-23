@@ -34,7 +34,7 @@ JavaScript
 Installation and Setup
 Clone the repository:
 
-git clone https://github.com/farhankhan1080p/book_Recommendation.git
+git clone https://github.com/Faizansayani/VerveBridge/book_Recommendation.git
 cd book_recommendation
 Set up the virtual environmen
 
